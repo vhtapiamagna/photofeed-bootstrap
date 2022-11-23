@@ -1,0 +1,15 @@
+.iconos {
+
+    color: grey;
+
+    
+}
+
+.iconos:hover {
+    color: blue;
+}
+
+
+.iconos2 {
+    padding-top: 1px;
+}
